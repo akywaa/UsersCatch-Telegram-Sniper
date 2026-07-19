@@ -3,7 +3,7 @@
 
   <h1>🌌 Username Catcher & Fragment Sniper</h1>
   
-  <p><b>Advanced Telegram Mini App for Username Hunting, Fragment Market Analytics & TON OSINT</b></p>
+  <p><b>Advanced Telegram Mini App for Username Hunting, Fragment Market Analytics & TON PARSING & @UsersCatch_bot</b></p>
 
   <a href="https://t.me/UsersCatch_bot">
     <img src="https://img.shields.io/badge/Bot-@UsersCatch__bot-blue?style=for-the-badge&logo=telegram">
@@ -20,7 +20,7 @@
 
 ## 🇬🇧 About The Project
 
-**Username Catcher** is a powerful, cloud-based Telegram Mini App designed for crypto-investors, username hunters, and digital asset collectors on the TON network. 
+**Username Catcher** (@UsersCatch_bot) is a powerful, cloud-based Telegram Mini App designed for crypto-investors, username hunters, and digital asset collectors on the TON network. 
 
 > ⚠️ **Note:** This repository serves as the official presentation and issue tracker. The core engine and parser source codes are **closed-source** to prevent abuse, bypass Cloudflare/Telegram rate limits safely, and protect our proprietary AI-rating algorithms. You can use the fully functional bot via the link above.
 
@@ -30,7 +30,7 @@
 *   🔍 **Bulk Nickname Generator:** Search for 5-8 character usernames in various categories (Pronounceable, Beautiful, Meaningful, Stylish) in bulk (up to 250 at a time).
 *   🤖 **AI Appraisal & Smart Rating:** We use Mistral AI and our custom algorithms to evaluate the rarity, readability, and estimated market value of any username in TON.
 *   📊 **Fragment Market Radar:** Real-time monitoring of hot auctions, top sales, and massive "whale" transactions.
-*   🕵️‍♂️ **Wallet OSINT:** Input any username to instantly see the owner's TON wallet, NFT collection, balance, and estimated net worth.
+*   🕵️‍♂️ **Wallet Parser:** Input any username to instantly see the owner's TON wallet, NFT collection, balance, and estimated net worth.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🇷🇺 О проекте (RU)
 
-**Username Catcher** — это мощное Mini App приложение внутри Telegram для инвесторов, ловцов юзернеймов (снайперов) и коллекционеров на блокчейне TON.
+**Username Catcher** (@UsersCatch_bot) — это мощное Mini App приложение внутри Telegram для инвесторов, ловцов юзернеймов (снайперов) и коллекционеров на блокчейне TON.
 
 > ⚠️ **Примечание:** Этот репозиторий является официальной страницей проекта. Исходный код парсеров и ядра закрыт для защиты от абуза и сохранения алгоритмов ИИ-оценки. Пользоваться ботом можно по ссылке ниже.
 
@@ -56,7 +56,7 @@
 *   🔍 **Массовый поиск:** Генерация и моментальная проверка на занятость от 5 до 8 символов. Категории: со смыслом, стильные, красивые.
 *   🤖 **ИИ Оценка (Mistral):** Оценка редкости, примерной стоимости (в TON) и инвестиционного потенциала юзернейма.
 *   📊 **Радар рынка:** Аналитика Fragment в реальном времени. Горячие лоты, топ продаж и радар сделок "китов" (от 500 TON).
-*   🕵️‍♂️ **OSINT Кошельков:** Введите любой ник, чтобы узнать баланс кошелька владельца, его NFT активы и их оценочную стоимость.
+*   🕵️‍♂️ **Парсер Кошельков:** Введите любой ник, чтобы узнать баланс кошелька владельца, его NFT активы и их оценочную стоимость.
 
 <br>
 
