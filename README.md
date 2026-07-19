@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/b52YdjnR?text=Username+Catcher+Banner" alt="Username Catcher Banner">
+  <img src="https://github.com/user-attachments/assets/000b917f-028b-47db-b147-c8e9eeff53a3" alt="Username Catcher Banner">
 
   <h1>🌌 Username Catcher & Fragment Sniper</h1>
   
@@ -36,10 +36,10 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://ibb.co/F4vv4f9b?text=Mini+App+Home" width="30%">
-  <img src="https://ibb.co/MkF5v5JH?text=Sniper+Feature" width="30%">
-  <img src="https://ibb.co/j9wcRJ9S?text=Wallet+OSINT" width="30%">
-  <img src="https://ibb.co/qY3b8vgV?text=Rate+Usernames" width="30%">
+  <img src="https://github.com/user-attachments/assets/5a0695f2-d612-40d1-bb7c-045682a27246" width="30%">
+  <img src="https://github.com/user-attachments/assets/25111963-3d01-46b4-840c-b721b28267aa" width="30%">
+  <img src="https://github.com/user-attachments/assets/c35ef67e-7077-42d5-94dc-6a1d4cb6f968" width="30%">
+  <img src="https://github.com/user-attachments/assets/4d9eaab4-bac7-4e3f-b7ea-b3a7bdeb9496" width="30%">
 </p>
 
 ---
